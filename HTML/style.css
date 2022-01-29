@@ -1,0 +1,37 @@
+h1{
+    color:orange;
+    background-color: slategrey;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+
+}
+p{
+    color: slategrey;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 3px;
+}
+/* more stuff */
+ul{
+    border: 4px crimson dotted;
+    border-bottom: 4px green solid;
+    border-left: 8px dashed crimson; 
+}
+li{
+    list-style-type: square;
+    text-shadow: 1px 1px rgb(241, 74, 8)
+}
+
+  span{
+    margin: 20px;
+    padding: 30px;
+    display: inline-block
+}
+div{
+
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+}
